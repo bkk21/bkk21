@@ -12,8 +12,8 @@
 ## 💻 DEV's log 
 ---
 ![Static Badge](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40kk21%2Fposts)
-### 👇 최신 글 보러 가기👇
+<center> ### 👇 최신 글 보러 가기👇 </center>
+<br>
  [![Velog's GitHubstats](https://velog-readme-stats.vercel.app/api?name=kk21)](https://github.com/bkk21/velog-readme-stats)
 
- 
-<center>가운데</center>
+
