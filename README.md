@@ -3,16 +3,17 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbkk21&count_bg=%239ED0FF&title_bg=%23555555&icon=reactos.svg&icon_color=%239ED0FF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api?username=bkk21&show_icons=true&bg_color=)
+![bkk21's GitHubstats](https://github-readme-stats.vercel.app/api?username=bkk21&show_icons=true&bg_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkk21&layout=compact)
 
+---
 <br>
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@kk21”>
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40kk21%2Fposts"> 
-    </a>
-  [![Velog's GitHubstats](https://velog-readme-stats.vercel.app/api?name=kk21)](https://github.com/bkk21/velog-readme-stats)
-  </div><br>
+## 💻 DEV's log 
+---
+![Static Badge](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40kk21%2Fposts)
+### 👇 최신 글 보러 가기👇
+ [![Velog's GitHubstats](https://velog-readme-stats.vercel.app/api?name=kk21)](https://github.com/bkk21/velog-readme-stats)
 
+ 
+<center>가운데</center>
