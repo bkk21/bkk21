@@ -31,12 +31,12 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Koltin-7F52FF?logo=Koltin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual-studio&logoColor=white">
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipse-ide&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipse-ide&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellij-idea&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
     <br>
