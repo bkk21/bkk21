@@ -2,10 +2,40 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&&&fontAlignY=20&height=100&lines=Welcome+to+kk21's+GitHub!%20%20👋)](https://git.io/typing-svg)
 
+## 🙍‍♀️ Introduce
+
+<div align = "left">
+   　 　🎓 Education<br>
+    　　　　• Konkuk University Glocal Campus <br>
+    　　　　• Computer Engineering (2021.03 ~ 2025.02)<br><br>
+   　 　💻️ Position <br>
+    　　　　• Prompt Engineering<br>
+    　　　　• Fine-tuning<br><br>
+   　 　💡 Interesting <br>
+    　　　　• Server(Linux / Ubuntu)<br>
+    　　　　• App(Android / Kotlin)<br>
+    　　　　• Web<br><br>
+   　 　📝 DEV's log<br>
+    　　　　• velog (Server / Fine-tuning / Kotlin)<br>
+            　　　　 <a href="https://velog.io/@kk21">
+                    <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+                  </a><br><br>
+   　 　📞 Contact<br>
+    　　　　• mail (business)<br>
+            　　　　 <a href="mailto:22bkk21@gmail.com">
+                    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+                  </a><br>
+    　　　　• Notion (Personal)<br>
+            　　　　 <a href="mailto:22bkk21@gmail.com">
+                    <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=Notion&logoColor=white">
+                  </a>
+    
+</div>
+<br>
+
 ## 🍀 Use
 
-<div align = "center">
-    <br>
+<div align = "left">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white">
@@ -41,26 +71,35 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
     <br>
 </div>
+<br>
 
-## 📝 DEV's log 
-<div align = "center"><br>
-    <a href="https://velog.io/@kk21">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
+## 📚 Experience
+<div align = "left">
+   　 　•  HCI 연구실<br>
+    　　　 컴퓨터공학과 서버실(학과 실습 서버 관리)<br><br>
+   　 　•  Chungju-UPCARE<br>
+    　　　 지역 소상공인 가게 소개 웹 서비스 개발<br><br>
+   　 　•  Medication Prescription Visualization(MPV)<br>
+    　　　 공공데이터 포털 의약품 데이터를 활용한 데이터 시각화<br><br>
+   　 　•  미미(美味)를 찾아서<br>
+    　　　 Stable Diffusion을 활용한 3D 레시피 창작 프로그램 기획<br><br>
+   　 　•  2023 배리어프리 앱 개발 콘테스트 <br>
+    　　　 몸과 마음 : 치매환자 및 노인을 위한 AI 헬스 케어 앱 개발<br><br>
+   　 　•  제3회 아이디어 공모전 - 빅데이터 활용 미래 사회문제 해결 아이디어 해커톤<br>
+    　　　 Greenery : AI를 활용한 분리 배출 방법 안내 앱 개발<br><br>
 </div>
+<br>
 
-## 📞 Contact 
-<div align = "center">
-    <a href="mailto:22bkk21@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <br>
+## 🏆 Awards
+<div align = "left">
+   　 　•  제10회 KU창업경진대회 (우수상)<br>
+    　　　 The 10th KU Startup Competition's (Excellence Award)<br><br>
 </div>
+<br>
 
 ## 🫧 My Github
 
 <div align = "center">
-<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbkk21&count_bg=%239ED0FF&title_bg=%23555555&icon=reactos.svg&icon_color=%239ED0FF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
