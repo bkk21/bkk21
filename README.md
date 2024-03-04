@@ -21,7 +21,7 @@
                     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
                   </a><br><br>
    　 　📞 Contact<br>
-    　　　　• mail (business)<br>
+    　　　　• mail (Business)<br>
             　　　　 <a href="mailto:22bkk21@gmail.com">
                     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
                   </a><br>
