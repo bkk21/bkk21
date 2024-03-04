@@ -36,38 +36,38 @@
 ## 🍀 Use
 
 <div align = "left">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+   　 　<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">
+   　 　<img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black">
+   　 　<img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black">
     <br>
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white">
+   　 　<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white">
     <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white">
+   　 　<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white">
+   　 　<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/C++-3776AB?logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Koltin-7F52FF?logo=Koltin&logoColor=white"/>
+   　 　<img src="https://img.shields.io/badge/Koltin-7F52FF?logo=Koltin&logoColor=white"/>
     <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual-studio&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipse-ide&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
+   　 　<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellij-idea&logoColor=white">
+   　 　<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellij-idea&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
     <br>
 </div>
