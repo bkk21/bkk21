@@ -25,8 +25,8 @@
             　　　　 <a href="mailto:22bkk21@gmail.com">
                     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
                   </a><br>
-    　　　　• Notion (Personal)<br>
-            　　　　 <a href="mailto:22bkk21@gmail.com">
+    　　　　• Notion (Public)<br>
+            　　　　 <a href="https://22bkk21.notion.site/">
                     <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=Notion&logoColor=white">
                   </a>
     
