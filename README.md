@@ -26,7 +26,7 @@
                     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
                   </a><br>
     　　　　• Notion (Public)<br>
-            　　　　 <a href="[https://meowing-football-283.notion.site/4f7f7d05512d4872b962f14b1f01f0c6">
+            　　　　 <a href="https://meowing-football-283.notion.site/4f7f7d05512d4872b962f14b1f01f0c6">
                     <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=Notion&logoColor=white">
                   </a>
     
