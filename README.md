@@ -8,15 +8,17 @@
    　 　🎓 Education<br>
     　　　　• Konkuk University Glocal Campus <br>
     　　　　• Computer Engineering (2021.03 ~ 2025.02)<br><br>
-   　 　💻️ Position <br>
+   　 　💻️ Position - LLM/LMM <br>
     　　　　• Prompt Engineering<br>
     　　　　• Fine-tuning<br><br>
+    　　　　• RAG<br><br>
+    　　　　• ETC<br><br>
    　 　💡 Interesting <br>
     　　　　• Server(Linux / Ubuntu)<br>
     　　　　• App(Android / Kotlin)<br>
     　　　　• Web<br><br>
    　 　📝 DEV's log<br>
-    　　　　• velog (Server / Fine-tuning / Kotlin)<br>
+    　　　　• velog (LLM / Server / Fine-tuning / Kotlin)<br>
             　　　　 <a href="https://velog.io/@kk21">
                     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
                   </a><br><br>
