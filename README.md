@@ -10,8 +10,8 @@
     　　　　• Computer Engineering (2021.03 ~ 2025.02)<br><br>
    　 　💻️ Position - LLM/LMM <br>
     　　　　• Prompt Engineering<br>
-    　　　　• Fine-tuning<br><br>
-    　　　　• RAG<br><br>
+    　　　　• Fine-tuning<br>
+    　　　　• RAG<br>
     　　　　• ETC<br><br>
    　 　💡 Interesting <br>
     　　　　• Server(Linux / Ubuntu)<br>
