@@ -102,6 +102,8 @@
 <div align = "left">
    　 　•  제10회 KU창업경진대회 (우수상)<br>
     　　　 The 10th KU Startup Competition's (Excellence Award)<br><br>
+   　 　•  2024 GALA (우수상)<br>
+    　　　 패스트캠퍼스 Generative AI Learning Awards (Excellence Award)<br><br>
 </div>
 <br>
 
